@@ -1,2 +1,2 @@
 #!/bin/bash
-Where i'm I?
+Script that prints the absolute path name of the working directory 
