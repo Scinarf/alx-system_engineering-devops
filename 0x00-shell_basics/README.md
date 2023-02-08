@@ -1,1 +1,2 @@
-Second commit
+#!/bin/bash
+Where i'm I?
