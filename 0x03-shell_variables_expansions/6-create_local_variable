@@ -1,2 +1,2 @@
 #!/bin/bash
-$BEST="school"
+New-Variable -Name "BEST" -Value "school"
